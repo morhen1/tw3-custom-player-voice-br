@@ -1,0 +1,33 @@
+# Voz de referência e consentimento são privados.
+private/
+consentimento/
+
+# Entradas/saídas grandes ou derivadas.
+dados/*.lines.csv
+dados/duracoes*.csv
+trabalho/
+saida/
+*.wav
+*.wem
+*.w3speech
+*.bnk
+*.zip
+*.7z
+*.rar
+release/
+
+# Modelos, caches e ambientes locais.
+.cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+
+# Configuração local contém caminhos privados.
+config.local.toml
+
+# Relatórios e arquivos de ferramentas/IDE.
+.pytest_cache/
+.idea/
+.vscode/
