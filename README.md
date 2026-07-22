@@ -1,5 +1,7 @@
 # Custom Player Voice BR — pipeline de voz
 
+**Português** | [English](README_EN.md)
+
 Ferramentas usadas para produzir uma voz feminina em português brasileiro para
 as falas normalmente associadas ao Geralt quando o jogador utiliza uma
 personagem feminina no mod **Custom Player Characters**, em *The Witcher 3:
